@@ -32,8 +32,6 @@ public class UserServicesFragment extends Fragment {
         ironing=view.findViewById(R.id.ironing);
         save=view.findViewById(R.id.save);
 
-
-
         save.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
